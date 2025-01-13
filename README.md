@@ -1,4 +1,8 @@
-## Hi there 👋
+I become a CS student now ...
+---
+- ⚡I'm currently learning C/C++ and many other things
+
+*Coding is a fascinating thing, isn't it?*
 
 <!--
 **metalCoreIsTheBest/metalCoreIsTheBest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
