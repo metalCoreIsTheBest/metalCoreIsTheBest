@@ -1,7 +1,6 @@
 So, I become a CE student now ...
 ---
-- ⚡I'm currently learning C/C++ and many other things
-- 🔭 I’m also currently working on LLM projects
+- ⚡I'm currently learning C/C++, Rust and many other things
 
 *Coding is a fascinating thing, isn't it?*
 
